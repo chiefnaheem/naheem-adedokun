@@ -1,4 +1,4 @@
-import obj from '../object.json'
+import obj from './object.json'
 export const objValues = ['1', 'James', 'Ibori', 'Ikoyi', 'Lagos', 'One expensive house like that']
 
 export function pathFinder(obj, query) {
